@@ -38,4 +38,3 @@ export { Schema } from './schema.js';
 export type { Infer, ObjectOutput, Shape } from './schema.js';
 export { TesselError, formatPath } from './errors.js';
 export type { Issue, IssueCode, Path, Result } from './errors.js';
-
